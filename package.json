@@ -1,0 +1,15 @@
+{
+  "name": "travis-brawn-community",
+  "version": "1.0.0",
+  "description": "Bot de Brawn Community. By Pierre Renucci.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pierre Renucci",
+  "license": "ISC"
+}
